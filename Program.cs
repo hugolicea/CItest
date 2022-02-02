@@ -1,9 +1,12 @@
 ﻿using System;
-namespace simplecitest
-{
-    public class Program
-    {
-        static void Main(String[] Args) { Console.WriteLine("Hello, World!"); }
-    }
 
+namespace CItest2
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
 }
