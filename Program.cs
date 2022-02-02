@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+namespace simplecitest
+{
+    public class Program
+    {
+        static void Main(String[] Args) { Console.WriteLine("Hello, World!"); }
+    }
+
+}
